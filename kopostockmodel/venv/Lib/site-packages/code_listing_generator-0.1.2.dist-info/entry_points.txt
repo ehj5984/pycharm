@@ -1,0 +1,3 @@
+[console_scripts]
+generate-code-listing = code_listing_generator:main
+
